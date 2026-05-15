@@ -3,13 +3,13 @@
 import { Github, Linkedin, Mail } from "lucide-react";
 
 const socialLinks = [
-  { icon: Github, href: "https://github.com/developerasf/", label: "GitHub" },
+  { icon: Github, href: "https://github.com/alaminflow/", label: "GitHub" },
   {
     icon: Linkedin,
     href: "https://linkedin.com/in/alaminflow",
     label: "LinkedIn",
   },
-  { icon: Mail, href: "mailto:hello@alaminflow.com", label: "Email" },
+  { icon: Mail, href: "mailto:mdalamin01cs@gmail.com", label: "Email" },
 ];
 
 export default function Footer() {
@@ -56,8 +56,8 @@ export default function Footer() {
               </p>
               <ul className="space-y-4 text-sm font-medium">
                 <li>
-                  <a href="mailto:hello@alaminflow.com" className="nav-link">
-                    hello@alaminflow.com
+                  <a href="mailto:mdalamin01cs@gmail.com" className="nav-link">
+                   mdalamin01cs@gmail.com
                   </a>
                 </li>
                 <li>
