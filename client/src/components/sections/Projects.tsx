@@ -10,7 +10,7 @@ const projects = [
     description: "Personal portfolio showcasing projects and skills. Built with MERN stack, Next.js, and TypeScript with animations and modern design.",
     tech: ["MERN Stack", "Next.js", "TypeScript", "Tailwind"],
     github: "https://github.com/alaminflow/portfolio-website",
-    demo: "",
+    demo: "https://alaminflow.com",
   },
   {
     category: "Full Stack Platform",
