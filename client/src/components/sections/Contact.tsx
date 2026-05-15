@@ -69,7 +69,7 @@ export default function Contact() {
               </div>
               <div>
                 <p className="text-[10px] uppercase tracking-widest text-[#354FE2] font-bold">Inquiry Protocol</p>
-                <p className="text-white font-medium">hello@alaminflow.com</p>
+                <p className="text-white font-medium">mdalamin01cs@gmail.com</p>
               </div>
             </div>
 
