@@ -9,7 +9,7 @@ const projects = [
     title: "Portfolio",
     description: "Personal portfolio showcasing projects and skills. Built with MERN stack, Next.js, and TypeScript with animations and modern design.",
     tech: ["MERN Stack", "Next.js", "TypeScript", "Tailwind"],
-    github: "https://github.com/developerasf/portfolio-website",
+    github: "https://github.com/alaminflow/portfolio-website",
     demo: "",
   },
   {
@@ -17,23 +17,23 @@ const projects = [
     title: "E-Learning Platform",
     description: "Full-featured e-learning platform with video streaming, course management, progress tracking, and interactive quizzes.",
     tech: ["MERN Stack", "React", "Node.js", "MongoDB"],
-    github: "https://github.com",
-    demo: "",
+    github: "https://github.com/alaminflow/e-learning-platform",
+    demo: "https://bipulsclassroom.com",
   },
   {
     category: "Web Application",
     title: "Movie Site",
     description: "Movie discovery application with search, filtering, favorites, and detailed movie information using TMDB API.",
     tech: ["MERN Stack", "React", "API Integration"],
-    github: "https://github.com",
-    demo: "https://demo.com",
+    github: "https://github.com/alaminflow/MovieLand",
+    demo: "",
   },
   {
     category: "Desktop Application",
     title: "Banking Management System",
     description: "Desktop banking application with account management, transactions, loan processing, and report generation.",
     tech: ["Java", "JavaFX", "MySQL"],
-    github: "https://github.com",
+    github: "https://github.com/alaminflow/BankingManagementSystem",
     demo: "",
   },
 ];
@@ -120,7 +120,7 @@ export default function Projects() {
         className="text-center mt-16"
       >
         <a
-          href="https://github.com/developerasf/"
+          href="https://github.com/alaminflow/"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 px-8 py-4 rounded-full font-bold text-sm uppercase tracking-widest border border-white/10 hover:border-[#354FE2]/50 transition-all"
