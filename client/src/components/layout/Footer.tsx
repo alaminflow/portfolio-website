@@ -34,7 +34,7 @@ export default function Footer() {
               <ul className="space-y-4 text-sm font-medium">
                 <li>
                   <a
-                    href="https://github.com/developerasf/"
+                    href="https://github.com/alaminflow/"
                     className="nav-link"
                   >
                     GitHub
